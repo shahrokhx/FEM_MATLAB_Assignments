@@ -1,5 +1,6 @@
 # FEM_MATLAB_Assignments
 This is a set of weekly MATLAB assignments walking undergrad and grad students in engineering majors (ME, CEE, AE, etc.) through FEM concepts by practically implementing a complete truss analyzing program in MATLAB. A step-by-step problem description is added for each assignment, and a complete solution is also provided.
+(The same set of assignemt can also be used in __Structural Analysis II__ courses.)
 
 | <div style="text-align:center"><span style="color:black; font-family:Georgia; font-size:1em;">Developed by Shahrokh Shahi</span></div>|
 |:----------|
